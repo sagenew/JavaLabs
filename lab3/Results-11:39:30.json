@@ -1,0 +1,32 @@
+[
+  {
+    "surname": "Agnew",
+    "name": "Spiro",
+    "patronymic": "Theodore",
+    "studentCard": "ID21st",
+    "courseYear": 2,
+    "country": "USA",
+    "sex": "Male",
+    "rating": 99
+  },
+  {
+    "surname": "Dowhopolyuk",
+    "name": "Roman",
+    "patronymic": "Ruslanowych",
+    "studentCard": "IP7109",
+    "courseYear": 2,
+    "country": "Ukraine",
+    "sex": "Male",
+    "rating": 100
+  },
+  {
+    "surname": "Poroshenko",
+    "name": "Peter",
+    "patronymic": "Olexiyowich",
+    "studentCard": "ID2014",
+    "courseYear": 2,
+    "country": "Ukraine",
+    "sex": "Male",
+    "rating": 100
+  }
+]

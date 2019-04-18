@@ -1,0 +1,122 @@
+[
+  {
+    "surname": "Sagenew",
+    "name": "Eugene",
+    "patronymic": "Rostyslavowych",
+    "studentCard": "ID1488",
+    "courseYear": 2,
+    "country": "Russia",
+    "sex": "Male",
+    "rating": 60
+  },
+  {
+    "surname": "Aisingioro",
+    "name": "Pu",
+    "patronymic": "I",
+    "studentCard": "ID1918",
+    "courseYear": 3,
+    "country": "Qing Empire",
+    "sex": "Male",
+    "rating": 95
+  },
+  {
+    "surname": "Sioux",
+    "name": "Siouxsie",
+    "patronymic": "Janet",
+    "studentCard": "ID9395",
+    "courseYear": 4,
+    "country": "United Kingdom",
+    "sex": "Female",
+    "rating": 86
+  },
+  {
+    "surname": "Ian",
+    "name": "Curtis",
+    "patronymic": "Kevin",
+    "studentCard": "ID1313",
+    "courseYear": 1,
+    "country": "Ukraine",
+    "sex": "Male",
+    "rating": 70
+  },
+  {
+    "surname": "Agnew",
+    "name": "Spiro",
+    "patronymic": "Theodore",
+    "studentCard": "ID21st",
+    "courseYear": 2,
+    "country": "USA",
+    "sex": "Male",
+    "rating": 99
+  },
+  {
+    "surname": "Dowhopolyuk",
+    "name": "Roman",
+    "patronymic": "Ruslanowych",
+    "studentCard": "IP7109",
+    "courseYear": 2,
+    "country": "Ukraine",
+    "sex": "Male",
+    "rating": 100
+  },
+  {
+    "surname": "Nixon",
+    "name": "Richard",
+    "patronymic": "Milhous",
+    "studentCard": "ID1968",
+    "courseYear": 2,
+    "country": "USA",
+    "sex": "Male",
+    "rating": 60
+  },
+  {
+    "surname": "Poroshenko",
+    "name": "Peter",
+    "patronymic": "Olexiyowich",
+    "studentCard": "ID2014",
+    "courseYear": 2,
+    "country": "Ukraine",
+    "sex": "Male",
+    "rating": 100
+  },
+  {
+    "surname": "Byrne",
+    "name": "David",
+    "patronymic": "Tom",
+    "studentCard": "ID1991",
+    "courseYear": 3,
+    "country": "USA",
+    "sex": "Male",
+    "rating": 90
+  },
+  {
+    "surname": "Zhmyshenko",
+    "name": "Valeriy",
+    "patronymic": "Albertowych",
+    "studentCard": "ID228",
+    "courseYear": 6,
+    "country": "Ukraine",
+    "sex": "Male",
+    "rating": 0
+  },
+  {
+    "surname": "Humenchuk",
+    "name": "Arthur",
+    "patronymic": "Olehovych",
+    "studentCard": "ID7107",
+    "courseYear": 2,
+    "country": "Ukraine",
+    "sex": "Male",
+    "rating": 60
+  },
+  {
+    "surname": "Matyora",
+    "name": "Yurii",
+    "patronymic": "Ivanovych",
+    "studentCard": "IP7117",
+    "courseYear": 2,
+    "country": "Ukraine",
+    "sex": "Male",
+    "rating": 100
+  }
+]
